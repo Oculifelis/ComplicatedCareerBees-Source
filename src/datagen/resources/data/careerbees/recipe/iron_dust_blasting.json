@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "careerbees:iron_dust",
+  "result": {
+    "id": "minecraft:iron_ingot"
+  },
+  "experience": 0.0,
+  "cookingtime": 100,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "metallurgy"
+      }
+    }
+  ]
+}

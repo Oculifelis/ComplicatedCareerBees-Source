@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.2,
+  "first": "careerbees:engineer",
+  "second": "careerbees:smelter",
+  "result": "careerbees:clock"
+}

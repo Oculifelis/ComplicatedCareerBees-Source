@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.5,
+  "first": "careerbees:quantum_strange",
+  "second": "careerbees:quantum_strange",
+  "result": "careerbees:quantum_charm"
+}

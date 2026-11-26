@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.4,
+  "first": "careerbees:graduate",
+  "second": "complicated_bees:cultivated",
+  "result": "careerbees:artist"
+}

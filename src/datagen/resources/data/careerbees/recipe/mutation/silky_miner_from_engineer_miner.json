@@ -1,0 +1,12 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.1,
+  "first": "careerbees:engineer",
+  "second": "careerbees:miner",
+  "result": "careerbees:silky_miner",
+  "conditions": {
+    "complicated_bees:block_under": {
+      "block": "minecraft:gold_block"
+    }
+  }
+}

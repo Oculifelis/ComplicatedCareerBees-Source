@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0-only"
+[[mods]]
+modId="careerbees_clientshot"
+version="1"
+displayName="Career Bees client shots"
+[[dependencies.careerbees_clientshot]]
+modId="careerbees"
+type="required"
+versionRange="*"
+ordering="AFTER"
+side="CLIENT"

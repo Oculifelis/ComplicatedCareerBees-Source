@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "complicated_bees:frame",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "careerbees:mutation_frame",
+    "count": 1
+  }
+}

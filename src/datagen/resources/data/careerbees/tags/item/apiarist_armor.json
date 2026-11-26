@@ -1,0 +1,25 @@
+{
+  "values": [
+    "#careerbees:bee_armor",
+    {
+      "id": "complicated_bees:apiarist_helmet",
+      "required": false
+    },
+    {
+      "id": "complicated_bees:apiarist_chestplate",
+      "required": false
+    },
+    {
+      "id": "complicated_bees:apiarist_leggings",
+      "required": false
+    },
+    {
+      "id": "complicated_bees:apiarist_boots",
+      "required": false
+    },
+    {
+      "id": "#complicated_bees:apiarist_armor",
+      "required": false
+    }
+  ]
+}

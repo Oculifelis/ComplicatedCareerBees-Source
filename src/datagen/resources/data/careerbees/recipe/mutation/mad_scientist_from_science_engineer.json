@@ -1,0 +1,10 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 1.0,
+  "first": "careerbees:science",
+  "second": "careerbees:engineer",
+  "result": "careerbees:mad_scientist",
+  "conditions": {
+    "careerbees:recent_explosion": {}
+  }
+}

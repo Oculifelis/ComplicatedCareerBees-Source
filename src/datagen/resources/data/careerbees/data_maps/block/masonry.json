@@ -1,0 +1,19 @@
+{
+  "values": {
+    "minecraft:cobblestone": {
+      "result": "minecraft:stone"
+    },
+    "minecraft:stone": {
+      "result": "minecraft:stone_bricks"
+    },
+    "minecraft:andesite": {
+      "result": "minecraft:polished_andesite"
+    },
+    "minecraft:granite": {
+      "result": "minecraft:polished_granite"
+    },
+    "minecraft:diorite": {
+      "result": "minecraft:polished_diorite"
+    }
+  }
+}

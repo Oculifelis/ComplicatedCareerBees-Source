@@ -1,0 +1,144 @@
+{
+  "values": {
+    "careerbees:armorer": {
+      "interval": 16,
+      "chance": 0.2
+    },
+    "careerbees:assassin": {
+      "interval": 10,
+      "chance": 1.0
+    },
+    "careerbees:burning": {
+      "interval": 4,
+      "chance": 0.01
+    },
+    "careerbees:business": {
+      "interval": 100,
+      "chance": 1.0
+    },
+    "careerbees:butcher": {
+      "interval": 20,
+      "chance": 1.0
+    },
+    "careerbees:clockwinding": {
+      "interval": 0,
+      "chance": 1.0
+    },
+    "careerbees:creeper": {
+      "interval": 2,
+      "chance": 0.2
+    },
+    "careerbees:crusher": {
+      "interval": 400,
+      "chance": 1.0
+    },
+    "careerbees:curative": {
+      "interval": 10,
+      "chance": 1.0
+    },
+    "careerbees:electrify": {
+      "interval": 5,
+      "chance": 0.1
+    },
+    "careerbees:energy": {
+      "interval": 0,
+      "chance": 1.0
+    },
+    "careerbees:explosion": {
+      "interval": 20,
+      "chance": 0.05
+    },
+    "careerbees:glazing": {
+      "interval": 30,
+      "chance": 1.0
+    },
+    "careerbees:healing": {
+      "interval": 10,
+      "chance": 1.0
+    },
+    "careerbees:honey_ingot": {
+      "interval": 200,
+      "chance": 1.0
+    },
+    "careerbees:husbandry": {
+      "interval": 20,
+      "chance": 1.0
+    },
+    "careerbees:jazz": {
+      "interval": 20,
+      "chance": 0.3
+    },
+    "careerbees:junk_sale": {
+      "interval": 100,
+      "chance": 1.0
+    },
+    "careerbees:lumber": {
+      "interval": 200,
+      "chance": 1.0
+    },
+    "careerbees:mason": {
+      "interval": 10,
+      "chance": 1.0
+    },
+    "careerbees:mining": {
+      "interval": 40,
+      "chance": 1.0
+    },
+    "careerbees:mining_fortune": {
+      "interval": 40,
+      "chance": 1.0
+    },
+    "careerbees:mining_silk": {
+      "interval": 40,
+      "chance": 1.0
+    },
+    "careerbees:painting": {
+      "interval": 600,
+      "chance": 1.0
+    },
+    "careerbees:pickup": {
+      "interval": 20,
+      "chance": 1.0
+    },
+    "careerbees:police": {
+      "interval": 10,
+      "chance": 1.0
+    },
+    "careerbees:priest": {
+      "interval": 100,
+      "chance": 1.0
+    },
+    "careerbees:repair": {
+      "interval": 20,
+      "chance": 0.2
+    },
+    "careerbees:retraining": {
+      "interval": 16,
+      "chance": 1.0
+    },
+    "careerbees:sharpen": {
+      "interval": 20,
+      "chance": 0.2
+    },
+    "careerbees:smelt": {
+      "interval": 20,
+      "chance": 1.0
+    },
+    "careerbees:taxation": {
+      "interval": 100,
+      "chance": 1.0
+    },
+    "careerbees:teleposition": {
+      "interval": 0,
+      "chance": 1.0
+    },
+    "careerbees:temporal": {
+      "interval": 0,
+      "chance": 1.0
+    },
+    "careerbees:thief": {
+      "interval": 10,
+      "chance": 1.0
+    }
+  }
+}

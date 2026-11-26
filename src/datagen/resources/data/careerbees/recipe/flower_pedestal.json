@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "sps",
+    " s "
+  ],
+  "key": {
+    "s": "minecraft:stick",
+    "p": "#minecraft:flowers"
+  },
+  "result": {
+    "id": "careerbees:flower_pedestal",
+    "count": 1
+  }
+}

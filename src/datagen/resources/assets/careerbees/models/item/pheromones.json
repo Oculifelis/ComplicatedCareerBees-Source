@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "careerbees:item/pheromones",
+    "layer1": "careerbees:item/pheromones_liquid",
+    "layer2": "careerbees:item/pheromones_cap"
+  }
+}

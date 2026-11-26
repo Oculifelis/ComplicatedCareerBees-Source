@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "complicated_bees:frame",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "careerbees:pheromone_frame",
+    "count": 1
+  }
+}

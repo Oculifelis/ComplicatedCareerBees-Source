@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "enum": "net/minecraft/client/model/HumanoidModel$ArmPose",
+      "name": "CAREERBEES_PISTOL",
+      "constructor": "(ZZLnet/neoforged/neoforge/client/IArmPoseTransformer;)V",
+      "parameters": {"class": "dev/oculifelis/careerbees/client/GunPose", "field": "PISTOL"}
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.3,
+  "first": "careerbees:phd",
+  "second": "complicated_bees:majestic",
+  "result": "careerbees:doctor"
+}

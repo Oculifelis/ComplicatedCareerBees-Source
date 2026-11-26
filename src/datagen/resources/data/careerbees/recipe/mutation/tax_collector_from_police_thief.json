@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.2,
+  "first": "careerbees:police",
+  "second": "careerbees:thief",
+  "result": "careerbees:tax_collector"
+}

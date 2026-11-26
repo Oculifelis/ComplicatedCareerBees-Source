@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "s s",
+    "sss",
+    "sss"
+  ],
+  "key": {
+    "s": "#c:ingots/honeycomb"
+  },
+  "result": {
+    "id": "careerbees:bee_chestplate",
+    "count": 1
+  }
+}

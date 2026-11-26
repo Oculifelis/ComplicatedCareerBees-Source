@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "careerbees:bee"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "careerbees:bee"
+      }
+    ]
+  }
+}

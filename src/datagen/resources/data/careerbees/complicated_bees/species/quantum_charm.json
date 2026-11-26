@@ -1,0 +1,71 @@
+{
+  "color": "ffffff",
+  "default_chromosome": {
+    "complicated_bees:active_time": {
+      "data": "never_sleeps",
+      "dominant": 0
+    },
+    "complicated_bees:cave_dwelling": {
+      "data": 1,
+      "dominant": 0
+    },
+    "complicated_bees:effect": {
+      "data": "careerbees:teleposition",
+      "dominant": 0
+    },
+    "complicated_bees:fertility": {
+      "data": 3,
+      "dominant": 0
+    },
+    "complicated_bees:flower": {
+      "data": "complicated_bees:flower",
+      "dominant": 0
+    },
+    "complicated_bees:humidity": {
+      "data": "normal",
+      "dominant": 0,
+      "tolerance": "UP_1"
+    },
+    "complicated_bees:lifespan": {
+      "data": "long",
+      "dominant": 0
+    },
+    "complicated_bees:productivity": {
+      "data": "fast",
+      "dominant": 0
+    },
+    "complicated_bees:species": {
+      "data": "complicated_bees:invalid",
+      "dominant": 0
+    },
+    "complicated_bees:temperature": {
+      "data": "normal",
+      "dominant": 0,
+      "tolerance": "DOWN_1"
+    },
+    "complicated_bees:territory": {
+      "data": [
+        4,
+        2
+      ],
+      "dominant": 0
+    },
+    "complicated_bees:weatherproof": {
+      "data": 0,
+      "dominant": 0
+    }
+  },
+  "dominant": false,
+  "models": [
+    "careerbees:bee/quantum_charm_drone",
+    "careerbees:bee/quantum_charm_princess",
+    "careerbees:bee/quantum_charm_queen"
+  ],
+  "nest_color": "000000",
+  "products": [
+    {
+      "chance": 0.1,
+      "item": "careerbees:ying"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.05,
+  "first": "careerbees:armorer",
+  "second": "careerbees:sharpening",
+  "result": "careerbees:repair"
+}

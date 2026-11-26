@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.01,
+  "first": "careerbees:artist",
+  "second": "complicated_bees:paludal",
+  "result": "careerbees:bensen"
+}

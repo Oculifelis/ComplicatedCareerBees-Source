@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "careerbees:item/bark",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": -8355712
+      }
+    ]
+  }
+}

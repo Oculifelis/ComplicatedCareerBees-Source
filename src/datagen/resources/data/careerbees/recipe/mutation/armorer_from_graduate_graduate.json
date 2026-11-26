@@ -1,0 +1,12 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.1,
+  "first": "careerbees:graduate",
+  "second": "careerbees:graduate",
+  "result": "careerbees:armorer",
+  "conditions": {
+    "complicated_bees:block_under": {
+      "block": "minecraft:anvil"
+    }
+  }
+}

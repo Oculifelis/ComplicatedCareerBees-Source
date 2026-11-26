@@ -1,0 +1,12 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.5,
+  "first": "careerbees:graduate",
+  "second": "complicated_bees:desert",
+  "result": "careerbees:smelter",
+  "conditions": {
+    "complicated_bees:block_under": {
+      "block": "minecraft:furnace"
+    }
+  }
+}

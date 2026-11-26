@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0-only"
+[[mods]]
+modId="careerbees"
+version="${mod_version}"
+displayName="Complicated Career Bees"
+enumExtensions="META-INF/enumextensions.json"
+authors="Oculifelis"
+description='''Bees with jobs for Complicated Bees: miners, doctors, police, smelters, a clockwork bee and more.'''
+[[dependencies.careerbees]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_min_version},)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.careerbees]]
+modId="minecraft"
+type="required"
+versionRange="[${minecraft_version}]"
+ordering="NONE"
+side="BOTH"
+[[dependencies.careerbees]]
+modId="complicated_bees"
+type="required"
+versionRange="[3.6.2+${minecraft_version}-port.6,)"
+ordering="AFTER"
+side="BOTH"

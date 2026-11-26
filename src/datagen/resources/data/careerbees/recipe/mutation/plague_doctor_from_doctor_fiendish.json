@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.3,
+  "first": "careerbees:doctor",
+  "second": "complicated_bees:fiendish",
+  "result": "careerbees:plague_doctor"
+}

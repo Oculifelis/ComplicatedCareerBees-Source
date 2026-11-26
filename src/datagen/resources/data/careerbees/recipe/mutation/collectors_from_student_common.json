@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.5,
+  "first": "careerbees:student",
+  "second": "complicated_bees:common",
+  "result": "careerbees:collectors"
+}

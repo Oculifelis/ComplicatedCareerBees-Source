@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "careerbees:yang",
+    "careerbees:ying",
+    "#c:dyes"
+  ],
+  "result": {
+    "id": "careerbees:triquetra",
+    "count": 1
+  }
+}

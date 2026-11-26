@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.05,
+  "first": "careerbees:smelter",
+  "second": "complicated_bees:devilish",
+  "result": "careerbees:devil"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.4,
+  "first": "complicated_bees:common",
+  "second": "careerbees:businessman",
+  "result": "careerbees:junk_seller"
+}

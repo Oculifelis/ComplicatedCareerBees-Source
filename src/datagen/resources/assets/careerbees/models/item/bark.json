@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "careerbees:item/bark",
+    "layer1": "careerbees:item/bark_overlay"
+  }
+}

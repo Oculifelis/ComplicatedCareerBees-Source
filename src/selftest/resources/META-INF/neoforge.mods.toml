@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0-only"
+[[mods]]
+modId="careerbees_selftest"
+version="1"
+displayName="Career Bees self test"
+[[dependencies.careerbees_selftest]]
+modId="careerbees"
+type="required"
+versionRange="*"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.careerbees_selftest]]
+modId="complicated_bees"
+type="required"
+versionRange="*"
+ordering="AFTER"
+side="BOTH"

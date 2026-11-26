@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "sss",
+    "sps",
+    "sss"
+  ],
+  "key": {
+    "s": "minecraft:stick",
+    "p": {
+      "neoforge:ingredient_type": "neoforge:compound",
+      "children": [
+        {
+          "neoforge:ingredient_type": "neoforge:components",
+          "items": "minecraft:potion",
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:poison"
+            }
+          }
+        },
+        {
+          "neoforge:ingredient_type": "neoforge:components",
+          "items": "minecraft:potion",
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:long_poison"
+            }
+          }
+        },
+        {
+          "neoforge:ingredient_type": "neoforge:components",
+          "items": "minecraft:potion",
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:strong_poison"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "result": {
+    "id": "careerbees:poison_frame",
+    "count": 1
+  }
+}

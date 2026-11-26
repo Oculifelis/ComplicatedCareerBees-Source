@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " c ",
+    "yfY",
+    " c "
+  ],
+  "key": {
+    "c": "minecraft:clock",
+    "y": "careerbees:yang",
+    "Y": "careerbees:ying",
+    "f": "complicated_bees:waxed_frame"
+  },
+  "result": {
+    "id": "careerbees:eternal_frame",
+    "count": 1
+  }
+}

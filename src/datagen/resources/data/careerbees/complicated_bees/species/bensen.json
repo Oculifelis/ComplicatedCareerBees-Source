@@ -1,0 +1,82 @@
+{
+  "color": "ffffff",
+  "default_chromosome": {
+    "complicated_bees:active_time": {
+      "data": "diurnal",
+      "dominant": 1
+    },
+    "complicated_bees:cave_dwelling": {
+      "data": 0,
+      "dominant": 1
+    },
+    "complicated_bees:effect": {
+      "data": "careerbees:jazz",
+      "dominant": 1
+    },
+    "complicated_bees:fertility": {
+      "data": 2,
+      "dominant": 1
+    },
+    "complicated_bees:flower": {
+      "data": "complicated_bees:flower",
+      "dominant": 1
+    },
+    "complicated_bees:humidity": {
+      "data": "normal",
+      "dominant": 1,
+      "tolerance": "NONE"
+    },
+    "complicated_bees:lifespan": {
+      "data": "long",
+      "dominant": 1
+    },
+    "complicated_bees:productivity": {
+      "data": "slow",
+      "dominant": 1
+    },
+    "complicated_bees:species": {
+      "data": "complicated_bees:invalid",
+      "dominant": 1
+    },
+    "complicated_bees:temperature": {
+      "data": "normal",
+      "dominant": 1,
+      "tolerance": "NONE"
+    },
+    "complicated_bees:territory": {
+      "data": [
+        4,
+        2
+      ],
+      "dominant": 1
+    },
+    "complicated_bees:weatherproof": {
+      "data": 0,
+      "dominant": 1
+    }
+  },
+  "dominant": true,
+  "models": [
+    "careerbees:bee/bensen_drone",
+    "careerbees:bee/bensen_princess",
+    "careerbees:bee/bensen_queen"
+  ],
+  "nest_color": "5e2e18",
+  "products": [
+    {
+      "chance": 0.4,
+      "item": "complicated_bees:comb",
+      "components": {
+        "complicated_bees:comb_type": "complicated_bees:honey"
+      }
+    },
+    {
+      "chance": 0.25,
+      "item": "complicated_bees:comb",
+      "components": {
+        "complicated_bees:comb_type": "complicated_bees:mysterious"
+      }
+    }
+  ],
+  "secret": true
+}

@@ -1,0 +1,7 @@
+{
+  "type": "complicated_bees:mutation",
+  "chance": 0.5,
+  "first": "careerbees:mad_scientist",
+  "second": "complicated_bees:ghostly",
+  "result": "careerbees:quantum_strange"
+}
